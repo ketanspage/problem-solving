@@ -1,0 +1,258 @@
+JavaScript Fundamentals:
+
+
+
+Write a function to check if a given number is even or odd.
+
+Create a function to find the largest element in an array.
+
+Implement a function to reverse a string.
+
+Write a program to remove duplicates from an array.
+
+Create a function to find the factorial of a number.
+
+Implement a function to check if a given string is a palindrome.
+
+Write a function to find the sum of all elements in an array.
+
+Create a program to find the second-largest element in an array.
+
+Implement a function to check if a number is prime.
+
+Write a function to convert a string to title case.
+
+Create a function to sort an array of numbers in ascending order.
+
+Implement a function to generate Fibonacci numbers up to N.
+
+Write a program to find the intersection of two arrays.
+
+Create a function to find the missing number in an array of consecutive numbers.
+
+Implement a function to count the occurrence of a specific element in an array.
+
+Write a function to flatten a nested array.
+
+Create a program to merge two sorted arrays.
+
+Implement a function to generate a random number within a given range.
+
+Write a program to remove all falsy values from an array.
+
+Create a function to find the longest word in a sentence.
+
+Implement a function to calculate the area of a circle.
+
+Write a program to find the common elements in two arrays.
+
+Create a function to check if an array is sorted in ascending order.
+
+Implement a function to reverse the words in a sentence.
+
+Write a program to rotate an array by a given number of positions.
+
+Create a function to convert a number to Roman numerals.
+
+Implement a function to check if two strings are anagrams.
+
+Write a program to find the maximum sum of a subarray.
+
+Create a function to calculate the factorial using recursion.
+
+Implement a function to convert a binary number to decimal.
+
+Write a program to remove all duplicates from a string.
+
+Create a function to calculate the power of a number.
+
+Implement a function to find the median of an array.
+
+Write a program to check if a string has balanced parentheses.
+
+
+Create a function to find the GCD (Greatest Common Divisor) of two numbers.
+
+Implement a function to reverse a linked list.
+
+Write a program to check if a string contains only digits.
+
+Create a function to find the intersection of two linked lists.
+
+Implement a function to perform a binary search in a sorted array.
+
+Write a program to find the first non-repeated character in a string.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+React.js Fundamentals:
+
+
+
+Create a React component that renders "Hello, World!".
+
+Implement a React component that displays a list of items.
+
+Write a React component that toggles a button's state.
+
+Create a React form with validation.
+
+Implement a React component to fetch and display data from an API.
+
+Write a React component that uses props to display data.
+
+Create a React component that handles user authentication.
+
+Implement a React component that filters and sorts data.
+
+Write a React component that communicates with a Redux store.
+
+Create a React component that uses React Router for routing.
+
+Implement a React component that performs CRUD operations.
+
+Write a React component that utilizes React Hooks.
+
+Create a React app with internationalization (i18n) support.
+
+Implement a React component that handles user input and state.
+
+Write a React component that uses context for state management.
+
+Create a React app with server-side rendering (SSR).
+
+Implement a React component with lazy loading for performance.
+
+Write a React component that integrates with a third-party library.
+
+Create a React app with routing and protected routes.
+
+Implement a React component that animates UI elements.
+
+Write a React component that handles file uploads.
+
+Create a React app that implements a real-time chat feature.
+
+Implement a React component that consumes a GraphQL API.
+
+Write a React component that implements drag-and-drop functionality.
+
+Create a React app that supports theming and dark mode.
+
+Implement a React component that handles form submissions.
+
+Write a React component that implements pagination.
+
+Create a React app that integrates with a WebSocket server.
+
+Implement a React component that performs data validation.
+
+Write a React component that supports user authentication with OAuth.
+
+Create a React app that implements client-side caching.
+
+Implement a React component that handles state synchronization between components.
+
+Write a React component that supports offline mode with service workers.
+
+Create a React app that implements a dynamic dashboard.
+
+Implement a React component that uses memoization for performance optimization.
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Advanced React.js:
+
+Create a custom React hook for managing global state.
+
+Implement server-side rendering with data prefetching.
+
+Write a React component that utilizes React Portals.
+
+Create a React app that supports dynamic imports and code splitting.
+
+Implement a React component that handles complex animations.
+
+Write a React component that integrates with a WebRTC API.
+
+Create a React app that implements user notifications.
+
+Implement a React component that supports server-sent events (SSE).
+
+Write a React component that integrates with a WebGL library.
+
+Create a React app that implements real-time collaboration features.
+
+Implement a React component that handles real-time data synchronization.
+
+Write a React component that supports progressive web app (PWA) features.
+
+Create a React app that implements a custom routing solution.
+
+Implement a React component that handles user authorization and roles.
+
+Write a React component that supports data caching and offline access.
+
+Create a React app that integrates with a machine learning model.
+
+Implement a React component that uses Web Workers for parallel processing.
+
+Write a React component that supports responsive design with media queries.
+
+Create a React app that implements a custom charting library.
+
+Implement a React component that handles complex form validations.
+
+Write a React component that supports real-time search with Elasticsearch.
+
+Create a React app that integrates with a NoSQL database.
+
+Implement a React component that supports user-generated content moderation.
+
+Write a React component that implements a custom routing transition.
+
+Create a React app that integrates with a blockchain network.
+
